@@ -1,0 +1,122 @@
+.body-bg{
+    background-color: #ADD8E6;
+}
+
+.form-div{
+    background-color: #fff;
+    width: 350px;
+    padding: 30px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#full-work{
+    width: 400px;
+    margin: auto;
+    padding-top: 100px;
+    }
+
+svg{
+    text-align: center;
+    justify-self:center;
+    margin-left: 110px;
+}
+
+
+input{
+    color: #1a202c;
+    padding-left: 0.75rem;
+    padding-right: 0.5rem;
+    padding-top: 0.75rem;
+    padding-bottom:0.75rem;
+    background-color:#edf2f7;
+    border-radius: 0.25rem;
+    outline: 0;
+    border-style: none;
+    width: 95%;
+}
+
+.btn{
+    background-color: rgb(8, 62, 158);
+    width: 100%;
+    font-size: .875rem;
+    color: #fff;
+    text-align: center;
+    padding-top: 1.25rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-bottom: 1.0rem;
+    justify-content: center;
+    border-bottom-right-radius: .75rem;
+    border-top-left-radius: .75rem;
+    border-top-right-radius: .75rem;
+    outline: 0;
+    border-style: none;
+    font-weight: 700
+}
+
+label {
+
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: .75rem;
+    color: #4a5568;
+    margin-bottom: .25rem;
+    line-height: 2;
+
+}
+
+.header3{
+    
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    color: #083e9e;
+    text-align: center;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.Select{
+
+    color: #1a202c;
+    padding-left: 0.75rem;
+    padding-right: 0.5rem;
+    padding-top: 0.75rem;
+    padding-bottom:0.75rem;
+    background-color:#edf2f7;
+    border-radius: 0.25rem;
+    outline: 0;
+    border-style: none;
+    width: 100%;
+
+}
+
+.para{
+
+    font-size: .875rem;
+    color: #4a5568;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0;
+    line-height: 1.5;
+    border: 0 solid #e2e8f0;
+      
+}
+
+.para1 {
+
+    text-align: center;
+    padding-left: .75rem;
+    padding-right: .75rem;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    font-size: .75rem;
+    color: white;
+
+}
+

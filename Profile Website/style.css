@@ -1,0 +1,140 @@
+
+.body-bg
+    {
+        background-image: url(Image.jpg);
+        background-size: cover;
+        
+        font-weight: 400;
+        
+    }
+
+.div1{
+    background-color: rgba(255, 255, 255, 0.76);
+    color: rgb(8, 62, 158);
+    margin-top: 150px;
+    margin-left: 235px;
+    margin-bottom: 20px;
+    width: 1000px;
+    padding-bottom:2rem; 
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+   border-radius: 0.25rem;
+}
+.something{
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-family: Lora,serif;
+    font-size: 4rem;
+    font-weight: 700;
+    display: inline-block;
+    letter-spacing: 8px;
+    margin-bottom: 0;
+    margin-top: 0;
+    /* line-height: 2; */
+}
+
+.h3{
+        /* line-height: 1.5; */
+        font-family: Lora,serif;
+}
+
+#message{
+
+    width: 1000px;
+    padding-top: 2rem;
+    padding-bottom:2rem;  
+    padding-left: 1.5rem;
+    padding-right: 1.5rem; 
+    
+}
+
+input{
+    color: rgb(8, 62, 158);
+    padding-top: 0.4rem;
+    padding-bottom:0.4rem;
+    background-color:rgba(255, 255, 255, 0.76);
+    border-radius: 0.25rem;
+    outline: 0;
+    border-style: none;
+    width: 501.6px;
+    padding-left: 0.75rem;
+    padding-right: 0.5rem;
+}
+
+button{
+    background-color: rgb(8, 62, 158);
+    width: 1050px;
+    font-size: .875rem;
+    color: #fff;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 0.5rem;
+    justify-content: center;
+    border-bottom-right-radius: .25rem;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+    outline: 0;
+    border-style: none;
+    font-weight: 500
+}
+
+.div2{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 215px;
+    margin-bottom: 20px;
+    width: 1200px;
+    padding: 1.5rem;
+    border-radius: 0.25rem;
+    color: white;
+    padding-left: 0.75rem;
+    padding-right: 0.5rem;
+}
+
+
+
+p{
+
+    font-family: Merriweather,serif;
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+footer{
+    font-family: sans-serif;
+    color: rgb(225, 225, 238);
+    text-align: center;
+}
+
+.para1{
+
+    font-family: Lora,serif;
+    font-size: 2rem;
+
+}
+
+.img-div{ 
+    position: relative;
+}
+.img{
+    border-color: rgb(8, 62, 158);
+    border-width: 4px;
+    border-style: solid;
+    display: flex;
+    position: absolute;
+    right:0;
+    /* top: 0; */
+    float: right;
+}
+
+
+
+     
